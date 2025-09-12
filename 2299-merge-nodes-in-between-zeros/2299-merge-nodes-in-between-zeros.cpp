@@ -14,7 +14,6 @@ public:
         ListNode* temp = head->next;
         ListNode* newHead =  NULL;
         ListNode* tempNewList = new ListNode;
-        ListNode* tempNewNode = new ListNode ;
         int sum=0;
 
         while(temp!=NULL && temp->next!=NULL)
@@ -37,11 +36,7 @@ public:
                 sum=0;
                 temp=temp->next;
             }
-            
         }
-        // tempNewNode->val = sum;
-        // tempNewNode->next = NULL;
-        // tempNewList->next=tempNewNode;
         return newHead;
     }
 };
