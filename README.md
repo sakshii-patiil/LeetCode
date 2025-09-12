@@ -10,6 +10,7 @@ Networking engineer practicing LeetCode
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/sakshii-patiil/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/sakshii-patiil/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sakshii-patiil/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
