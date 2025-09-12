@@ -10,6 +10,7 @@ Networking engineer practicing LeetCode
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sakshii-patiil/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/sakshii-patiil/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sakshii-patiil/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/sakshii-patiil/LeetCode/tree/master/0203-remove-linked-list-elements) |
@@ -20,6 +21,7 @@ Networking engineer practicing LeetCode
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sakshii-patiil/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/sakshii-patiil/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sakshii-patiil/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/sakshii-patiil/LeetCode/tree/master/0908-middle-of-the-linked-list) |
