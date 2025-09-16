@@ -11,6 +11,7 @@ Networking engineer practicing LeetCode
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sakshii-patiil/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/sakshii-patiil/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/sakshii-patiil/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sakshii-patiil/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/sakshii-patiil/LeetCode/tree/master/0203-remove-linked-list-elements) |
@@ -34,6 +35,7 @@ Networking engineer practicing LeetCode
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/sakshii-patiil/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/sakshii-patiil/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sakshii-patiil/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Hash Table
