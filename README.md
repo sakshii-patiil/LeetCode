@@ -29,6 +29,7 @@ Networking engineer practicing LeetCode
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sakshii-patiil/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/sakshii-patiil/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sakshii-patiil/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0344-reverse-string](https://github.com/sakshii-patiil/LeetCode/tree/master/0344-reverse-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/sakshii-patiil/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/sakshii-patiil/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sakshii-patiil/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -47,4 +48,8 @@ Networking engineer practicing LeetCode
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/sakshii-patiil/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/sakshii-patiil/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
