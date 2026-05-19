@@ -43,6 +43,7 @@ Networking engineer practicing LeetCode
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sakshii-patiil/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/sakshii-patiil/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sakshii-patiil/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 ## Simulation
@@ -54,4 +55,8 @@ Networking engineer practicing LeetCode
 | ------- |
 | [0344-reverse-string](https://github.com/sakshii-patiil/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sakshii-patiil/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sakshii-patiil/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
