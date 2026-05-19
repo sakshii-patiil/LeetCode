@@ -47,6 +47,7 @@ Networking engineer practicing LeetCode
 | [0141-linked-list-cycle](https://github.com/sakshii-patiil/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sakshii-patiil/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/sakshii-patiil/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sakshii-patiil/LeetCode/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Networking engineer practicing LeetCode
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/sakshii-patiil/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sakshii-patiil/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sakshii-patiil/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Array
@@ -65,4 +67,5 @@ Networking engineer practicing LeetCode
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sakshii-patiil/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sakshii-patiil/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
