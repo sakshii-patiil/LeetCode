@@ -46,6 +46,7 @@ Networking engineer practicing LeetCode
 | [0001-two-sum](https://github.com/sakshii-patiil/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/sakshii-patiil/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sakshii-patiil/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/sakshii-patiil/LeetCode/tree/master/0217-contains-duplicate) |
 ## Simulation
 |  |
 | ------- |
@@ -59,4 +60,9 @@ Networking engineer practicing LeetCode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sakshii-patiil/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/sakshii-patiil/LeetCode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/sakshii-patiil/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
