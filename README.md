@@ -31,6 +31,7 @@ Networking engineer practicing LeetCode
 | [0141-linked-list-cycle](https://github.com/sakshii-patiil/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sakshii-patiil/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/sakshii-patiil/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sakshii-patiil/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sakshii-patiil/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sakshii-patiil/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/sakshii-patiil/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -67,9 +68,18 @@ Networking engineer practicing LeetCode
 | [0027-remove-element](https://github.com/sakshii-patiil/LeetCode/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/sakshii-patiil/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/sakshii-patiil/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sakshii-patiil/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sakshii-patiil/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sakshii-patiil/LeetCode/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sakshii-patiil/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sakshii-patiil/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
