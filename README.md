@@ -27,6 +27,7 @@ Networking engineer practicing LeetCode
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sakshii-patiil/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/sakshii-patiil/LeetCode/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/sakshii-patiil/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sakshii-patiil/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/sakshii-patiil/LeetCode/tree/master/0283-move-zeroes) |
@@ -63,6 +64,7 @@ Networking engineer practicing LeetCode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sakshii-patiil/LeetCode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/sakshii-patiil/LeetCode/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/sakshii-patiil/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/sakshii-patiil/LeetCode/tree/master/0283-move-zeroes) |
 ## Sorting
