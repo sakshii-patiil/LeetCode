@@ -47,6 +47,7 @@ Networking engineer practicing LeetCode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sakshii-patiil/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sakshii-patiil/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/sakshii-patiil/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sakshii-patiil/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/sakshii-patiil/LeetCode/tree/master/0217-contains-duplicate) |
@@ -58,6 +59,7 @@ Networking engineer practicing LeetCode
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sakshii-patiil/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/sakshii-patiil/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sakshii-patiil/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sakshii-patiil/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -86,5 +88,6 @@ Networking engineer practicing LeetCode
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sakshii-patiil/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/sakshii-patiil/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
