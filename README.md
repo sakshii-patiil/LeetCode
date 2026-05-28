@@ -69,6 +69,7 @@ Networking engineer practicing LeetCode
 | [0217-contains-duplicate](https://github.com/sakshii-patiil/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/sakshii-patiil/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sakshii-patiil/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0643-maximum-average-subarray-i](https://github.com/sakshii-patiil/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Sorting
 |  |
 | ------- |
@@ -82,4 +83,8 @@ Networking engineer practicing LeetCode
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sakshii-patiil/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sakshii-patiil/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
