@@ -7,8 +7,8 @@ class Solution:
         for right in range(len(nums)):
             sum += nums[right]
             while sum >= target :
-                sum -= nums[left]
                 minSub = min(minSub,right - left + 1)
+                sum -= nums[left]
                 left += 1
 
         if minSub == len(nums)+1:
